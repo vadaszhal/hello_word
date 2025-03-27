@@ -1,3 +1,1 @@
 teszt
-proba
-kettőcske
