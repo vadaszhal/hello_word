@@ -1,3 +1,2 @@
 teszt
-proba
-ketto
+p
